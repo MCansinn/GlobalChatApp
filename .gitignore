@@ -360,4 +360,9 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
+<<<<<<< HEAD
 FodyWeavers.xsd
+=======
+FodyWeavers.xsd
+/GlobalChatApp.sln
+>>>>>>> a4dffea0272ee6fe4b3e5ad740eac923393c1d87
